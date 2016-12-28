@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(name='main',
-      version='1.0',
+      version='2.0',
       description='main bluebream application',
       long_description="""\
 """,
@@ -58,6 +58,7 @@ setup(name='main',
                         'zope.sendmail',
                         'zope.testbrowser',
                         'zope.thread',
+                        'Pillow',
                         ],
       entry_points = """
       [paste.app_factory]
