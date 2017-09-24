@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 
-setup(name='cco-server',
+setup(name='main',
       version='2.0',
       description='main loops (bluebream) server application',
       long_description="""\
