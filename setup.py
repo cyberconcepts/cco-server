@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(name='main',
-      version='2.0',
+      version='2.1',
       description='main loops (bluebream) server application',
       long_description="""\
 """,
